@@ -1,0 +1,2 @@
+The answer is - 1.
+because in promise only the first resolve/error is executed, and the other is ignored.
